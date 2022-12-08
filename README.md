@@ -1,3 +1,4 @@
 # Pandas
 
-Code and Data for Learning the Pandas lib 
+This repo provides the Code and Data for Learning the Pandas lib.
+
