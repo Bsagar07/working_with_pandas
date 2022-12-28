@@ -1,4 +1,4 @@
 # Pandas
 
-Code and Data for Learning important functions and syntax of Pandas lib.
+Code and data for getting insights from winemag dataset using Pandas lib.
 
